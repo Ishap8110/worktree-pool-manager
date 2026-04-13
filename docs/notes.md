@@ -18,3 +18,4 @@ Notes and usage details for worktree-pool-manager.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
